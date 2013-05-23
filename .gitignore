@@ -28,6 +28,8 @@ local.properties
 proguard.cfg
 proguard-project.txt
 
+build
+
 #Other
 .DS_Store
 tmp
